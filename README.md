@@ -11,8 +11,8 @@ Summary:
 
 # Installation
 
-Extract the files into =redmine/plugins/= folder, with:
+Extract the files into _redmine/plugins/_ folder, with:
 
-   git clone {:path} dr-redirect
+    git clone https://github.com/Delektre/dr-redirect dr-redirect
 
 Then enable the plugin in admin panel.
