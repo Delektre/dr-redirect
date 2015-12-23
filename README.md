@@ -8,3 +8,11 @@ Summary:
    * Requires WordPress >= 4.4
    * Creates own table to database
    * Only 301 redirects
+
+# Installation
+
+Extract the files into =redmine/plugins/= folder, with:
+
+   git clone {:path} dr-redirect
+
+Then enable the plugin in admin panel.
